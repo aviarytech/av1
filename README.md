@@ -1,5 +1,7 @@
 # av1
 
+interfaces for libraries https://hackmd.io/0EHQ6RWfTnqzO5C8rzOmug
+
 @aviarytech/dids
 ```typescript=
 /**
